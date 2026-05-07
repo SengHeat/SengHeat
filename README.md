@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Seng%20Heat&fontSize=65&fontColor=00D4FF&fontAlignY=42&desc=PHP%20%E2%80%A2%20Laravel%20%E2%80%A2%20Backend%20Developer%20%F0%9F%87%B0%F0%9F%87%AD&descAlignY=65&descSize=18&descColor=E94560&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Seng%20Heat&fontSize=65&fontColor=00D4FF&fontAlignY=42&desc=Backend%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Laravel%20%F0%9F%87%B0%F0%9F%87%AD&descAlignY=65&descSize=18&descColor=E94560&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;PHP+%2F+Laravel+Developer+%F0%9F%AA%81;Backend+%26+REST+API+Builder+%F0%9F%94%97;Based+in+Cambodia+%F0%9F%87%B0%F0%9F%87%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;Spring+Boot+%26+Laravel+%F0%9F%AA%81;Also+into+Flutter+Mobile+%F0%9F%93%B1;REST+API+Builder+%F0%9F%94%97;Based+in+Cambodia+%F0%9F%87%B0%F0%9F%87%AD)](https://git.io/typing-svg)
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/yourchannel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heat-seng-25087a286)
 
 </div>
@@ -13,20 +12,23 @@
 
 ### 🧑‍💻 About Me :
 
-**I am a PHP / Laravel Developer 🪁 from Cambodia.**
+**I am a Backend Developer (Spring Boot & Laravel) 🪁 from Cambodia.**
 
 - 🪁 I'm a software developer contributing to the backend of building systems and REST API.
 - 🌱 Exploring Technical Content Writing
 - ⚡ I watch and read tech articles in my free time.
 
-### 🛠️ Languages and Tools :
+---
+
+### 🛠️ Backend — Primary Skill :
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,java,flutter,vue,postgres,mysql,redis,docker,git" />
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,flutter,postgres,mysql,redis,docker,git" />
 </div>
 
 ---
-### 🚀:
+
+### 🚀 Service :
 
 ![SSO](https://img.shields.io/badge/SSO-Single%20Sign--On-%230f3460?style=for-the-badge&logo=auth0&logoColor=00D4FF)
 ![SNS](https://img.shields.io/badge/AWS%20SNS-Simple%20Notification%20Service-%23FF9900?style=for-the-badge&logo=amazonsns&logoColor=white)
@@ -39,16 +41,6 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SengHeat&theme=dark)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SengHeat&layout=compact&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/SengHeat/SengHeat/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
