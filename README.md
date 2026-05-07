@@ -19,13 +19,18 @@
 - 🌱 Exploring Technical Content Writing
 - ⚡ I watch and read tech articles in my free time.
 
----
-
 ### 🛠️ Languages and Tools :
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,java,flutter,vue,postgres,mysql,redis,docker,git" />
 </div>
+
+---
+### 🚀:
+
+![SSO](https://img.shields.io/badge/SSO-Single%20Sign--On-%230f3460?style=for-the-badge&logo=auth0&logoColor=00D4FF)
+![SNS](https://img.shields.io/badge/AWS%20SNS-Simple%20Notification%20Service-%23FF9900?style=for-the-badge&logo=amazonsns&logoColor=white)
+![SQS](https://img.shields.io/badge/AWS%20SQS-Simple%20Queue%20Service-%23FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
 
 ---
 
