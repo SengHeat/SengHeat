@@ -21,7 +21,7 @@
 
 ### 🛠️ Languages and Tools :
 
-<img src="https://skillicons.dev/icons?i=php,laravel,java,flutter,vue,redis,docker,postgres,git" />
+<img src="https://skillicons.dev/icons?i=php,laravel,java,flutter,vue,postgres,mysql,redis,docker,git" />
 
 ---
 
