@@ -23,7 +23,7 @@
 ### 🛠️ Backend — Primary Skill :
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,flutter,postgres,mysql,redis,docker,git" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,flutter,postgres,mysql,redis,docker,git" />
 </div>
 
 ---
